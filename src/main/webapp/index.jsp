@@ -529,7 +529,7 @@
 
         /* Newsletter Section */
         .newsletter {
-            background-color: var(--primary);
+            background-color: var(--primary); 
             color: white;
             padding: 60px 0;
             text-align: center;
@@ -826,7 +826,7 @@
     <!-- Hero Section -->
     <section class="hero">
         <div class="hero-content">
-            <h1>summer collection 2025</h1>
+            <h1>summer collection 2026</h1>
             <p>Discover the latest trends in fashion, technology and accessories with up to 90% off selected items</p>
             <div class="hero-buttons">
                 <a href="#" class="btn btn-primary">Shop Now</a>
